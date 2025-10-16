@@ -1,0 +1,6 @@
+result=pow(2,3)
+print(result)
+result1=abs(-10)
+print(result1)
+print(chr(65))
+print(ord("A"))
